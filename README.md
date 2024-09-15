@@ -1,2 +1,1 @@
-# iplacex-discografica-spring-api-cristian_jerez
- API REST spring discografica
+“API REST Spring para administración de discografías favoritas de empleados de IPLACEX”
